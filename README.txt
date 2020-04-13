@@ -1,0 +1,1 @@
+This Repository contains the requirements and pictures of my solutions to an Ab Initio exam performed through the JUMP Program
